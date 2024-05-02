@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Frontend
+/Frontend/node_modules
+/Frontend/.pnp
+/Frontend/pnp.js
+/Frontend/coverage
+/Frontend/build
+/Frontend/.DS_Store
+/Frontend/.env.local
+/Frontend/.env.development.local
+/Frontend/.env.test.local
+/Frontend/.env.production.local
+/Frontend/npm-debug.log*
+/Frontend/yarn-debug.log*
+/Frontend/yarn-error.log*
+
+# Backend
+/Backend/IKAgg
+/Backend/*.pyc
+/Backend/__pycache__
+/Backend/.DS_Store
+/Backend/.env
+/Backend/.env.local
+/Backend/.env.development.local
+/Backend/.env.test.local
+/Backend/.env.production.local
